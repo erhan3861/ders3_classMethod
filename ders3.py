@@ -27,7 +27,7 @@ class Kurs():
 Kurs.kurs_ekle("Python Programlama", 500, 1)
 Kurs.kurs_ekle("Veri Bilimi", 800, 8)
 Kurs.kurs_ekle("Web Geliştirme", 600, 12)
-
+Kurs.kurs_ekle("Blender", 600, 12)
 # Kayıt Ol
 kurs1 = Kurs.kurslar[0] 
 kurs2 = Kurs.kurslar[1]
